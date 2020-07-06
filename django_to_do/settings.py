@@ -26,7 +26,7 @@ SECRET_KEY = '(=ek)!7@tenodh$)n2$*(t95^qq9#wz&&&=$7r$$@tn(c29mum'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['git.heroku.com/afra-django-todo-app.git']
 
 
 # Application definition
